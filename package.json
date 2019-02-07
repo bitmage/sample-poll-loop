@@ -1,0 +1,14 @@
+{
+  "name": "sample-poll-loop",
+  "version": "0.0.1",
+  "description": "Sample poll loop.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "q@bitmage.net",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0"
+  }
+}
